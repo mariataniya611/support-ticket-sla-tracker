@@ -23,6 +23,15 @@ This project is a Django based support ticket management system that helps users
 - Analytics dashboard
 - Priority prediction
 
+## Screenshots
+
+![Home](screenshots/homepage.png)
+
+![Ticket Creation](screenshots/ticketraisingpage.png)
+
+![Ticket List](screenshots/ticketspage.png)
+
+![Admin Panel](screenshots/admindashboardpage.png)
 ## Author
 Maria Taniya
 AI & Robotics Student
